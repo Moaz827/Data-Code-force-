@@ -1,0 +1,3 @@
+C:/Users/moaza/OneDrive/Desktop/code force/Theatre Square/cmake-build-debug/CMakeFiles/Theatre_Square.dir
+C:/Users/moaza/OneDrive/Desktop/code force/Theatre Square/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/moaza/OneDrive/Desktop/code force/Theatre Square/cmake-build-debug/CMakeFiles/rebuild_cache.dir
